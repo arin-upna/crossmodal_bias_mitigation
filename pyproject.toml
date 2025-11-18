@@ -1,0 +1,20 @@
+[project]
+name = "fairfacevalidation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dlib>=20.0.0",
+    "face-alignment>=1.4.1",
+    "jupyterlab>=4.4.10",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+]

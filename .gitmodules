@@ -1,0 +1,6 @@
+[submodule "external/emonet"]
+	path = external/emonet
+	url = https://github.com/face-analysis/emonet.git
+[submodule "external/fairface"]
+	path = external/fairface
+	url = https://github.com/dchen236/FairFace.git
