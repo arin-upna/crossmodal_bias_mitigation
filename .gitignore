@@ -9,3 +9,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local-only / generated artifacts
+figures/
+data_folder_link
+AGENTS.md
